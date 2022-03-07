@@ -1,36 +1,37 @@
 {
   "files": {
-    "main.css": "/static/css/main.978442bd.chunk.css",
-    "main.js": "/static/js/main.95442a1f.chunk.js",
-    "main.js.map": "/static/js/main.95442a1f.chunk.js.map",
+    "main.css": "/static/css/main.5d5730fd.chunk.css",
+    "main.js": "/static/js/main.9277a878.chunk.js",
+    "main.js.map": "/static/js/main.9277a878.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.602bef71.js",
     "runtime-main.js.map": "/static/js/runtime-main.602bef71.js.map",
     "static/css/2.e7f3f9d7.chunk.css": "/static/css/2.e7f3f9d7.chunk.css",
-    "static/js/2.053ede8d.chunk.js": "/static/js/2.053ede8d.chunk.js",
-    "static/js/2.053ede8d.chunk.js.map": "/static/js/2.053ede8d.chunk.js.map",
+    "static/js/2.871ec243.chunk.js": "/static/js/2.871ec243.chunk.js",
+    "static/js/2.871ec243.chunk.js.map": "/static/js/2.871ec243.chunk.js.map",
     "static/js/3.f0e5a195.chunk.js": "/static/js/3.f0e5a195.chunk.js",
     "static/js/3.f0e5a195.chunk.js.map": "/static/js/3.f0e5a195.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.e7f3f9d7.chunk.css.map": "/static/css/2.e7f3f9d7.chunk.css.map",
-    "static/css/main.978442bd.chunk.css.map": "/static/css/main.978442bd.chunk.css.map",
-    "static/js/2.053ede8d.chunk.js.LICENSE.txt": "/static/js/2.053ede8d.chunk.js.LICENSE.txt",
-    "static/media/Product packaging.7d33b807.png": "/static/media/Product packaging.7d33b807.png",
-    "static/media/Restaurant psd.71bfc28b.jpg": "/static/media/Restaurant psd.71bfc28b.jpg",
+    "static/css/main.5d5730fd.chunk.css.map": "/static/css/main.5d5730fd.chunk.css.map",
+    "static/js/2.871ec243.chunk.js.LICENSE.txt": "/static/js/2.871ec243.chunk.js.LICENSE.txt",
+    "static/media/Product packaging.9559276b.png": "/static/media/Product packaging.9559276b.png",
+    "static/media/Restaurant.1597679f.jpg": "/static/media/Restaurant.1597679f.jpg",
+    "static/media/Untitled-1.7046a39e.png": "/static/media/Untitled-1.7046a39e.png",
     "static/media/about.aee0f771.png": "/static/media/about.aee0f771.png",
+    "static/media/cv.af803883.pdf": "/static/media/cv.af803883.pdf",
     "static/media/fashion.13e0b385.jpg": "/static/media/fashion.13e0b385.jpg",
-    "static/media/gig coffee mockup.3a3312ff.jpg": "/static/media/gig coffee mockup.3a3312ff.jpg",
+    "static/media/gig coffee mockup.0b1d7e7a.jpg": "/static/media/gig coffee mockup.0b1d7e7a.jpg",
     "static/media/girl.0418f7b7.png": "/static/media/girl.0418f7b7.png",
     "static/media/style.css": "/static/media/pre.4410c5ba.svg",
-    "static/media/mobile app.7bef59b0.jpeg": "/static/media/mobile app.7bef59b0.jpeg",
-    "static/media/my-cv (2).af803883.pdf": "/static/media/my-cv (2).af803883.pdf",
+    "static/media/mobile app.95b031c7.png": "/static/media/mobile app.95b031c7.png",
     "static/media/new photo.f21f6577.png": "/static/media/new photo.f21f6577.png",
-    "static/media/salon gig mockup.9d5465a8.jpg": "/static/media/salon gig mockup.9d5465a8.jpg"
+    "static/media/web page.4a4184ac.png": "/static/media/web page.4a4184ac.png"
   },
   "entrypoints": [
     "static/js/runtime-main.602bef71.js",
     "static/css/2.e7f3f9d7.chunk.css",
-    "static/js/2.053ede8d.chunk.js",
-    "static/css/main.978442bd.chunk.css",
-    "static/js/main.95442a1f.chunk.js"
+    "static/js/2.871ec243.chunk.js",
+    "static/css/main.5d5730fd.chunk.css",
+    "static/js/main.9277a878.chunk.js"
   ]
 }
